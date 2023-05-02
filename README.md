@@ -1,10 +1,10 @@
 # Digital Product Management SP 2023 Personal Portfolio Project
 
 
-Introduction:
+### Introduction:
+- This project for the Digital Product Management class is to help students learn how to build a static website from scratch using HTML, CSS, and Java. I also learned about accessibility validation for users, cookie and policy writing, and using Google Analytics to report on users. 
 
-
-Process:
+### Process:
 - Sprint 1
   - Find and download HTML5 template for site.
   - Create a repository for your portfolio on GitHub and clone it to personal computer.
@@ -20,6 +20,13 @@ Process:
   - Verify the page passes HTML5, CSS, and WCAG2.1, level AA after the edits.
   - Commit so the new changes are pushed to production.
 - Sprint 2
-- Sprint 3
+  - Continue adding content to the site.
+  - Add a downloadable resume, a photo, social media links, an email address, and a short introduction paragraph.
+  - Continue validating against HTML5, CSS3, and WCAG2.1, level AA standards. Commit as necessary. When new features are ready for the public, merge the feature branch to main and push to GitHub deploying the new feature(s).
+  - Add social media and favicon <meta> elements.
+  - Create a privacy policy, terms and conditions, copyright declaration displayed, and a cookie policy for the website. 
+  - Create a cookie popup for the home page of the webiste.
+  - Set up a Google Analytics campaign.
 
-Concluding Thoughts:
+### Concluding Thoughts:
+- I have thoroughly enjoyed being able to gain the skills of website building and being able to share the final product with my family!!
