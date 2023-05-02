@@ -1,6 +1,11 @@
-# portfolio
-DPM Portfolio Site
+Digital Product Management SP 2023 Personal Portfolio Project
+- Isobel Boyd
 
 
-xx. 
-test. 
+Introduction:
+
+
+Process:
+
+
+Concluding Thoughts:
